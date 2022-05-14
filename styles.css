@@ -38,7 +38,7 @@
     .upper-content h1 {
         font-size: 2.95rem;
         line-height: 50px;
-        color: hsl(300, 51%, 30%);
+        color: hsl(300, 43%, 22%);
         max-width: 55%;
         font-weight: 600;
     }
@@ -92,7 +92,7 @@
         display: flex;
         font-size: 1.075rem;
         margin-left: 25px;
-        color: hsl(300, 51%, 30%);
+        color: hsl(300, 43%, 22%);
     }
     
     .second-upper-content img {
@@ -136,7 +136,7 @@
     /* Comment Sections */
     
     .comment-1 {
-        background-color: hsl(300, 51%, 30%);
+        background-color: hsl(300, 43%, 22%);
         margin: 0 25px;
         padding: 35px;
         max-width: 85%;
@@ -152,7 +152,7 @@
     }
     
     .comment-2 {
-        background-color: hsl(300, 51%, 30%);
+        background-color: hsl(300, 43%, 22%);
         margin: 0 25px;
         padding: 35px;
         max-width: 85%;
@@ -169,7 +169,7 @@
     }
     
     .comment-3 {
-        background-color: hsl(300, 51%, 30%);
+        background-color: hsl(300, 43%, 22%);
         margin: 0 25px;
         padding: 35px;
         max-width: 85%;
@@ -236,7 +236,7 @@
         font-size: 2.5rem;
         line-height: 35px;
         text-align: center;
-        color: hsl(300, 51%, 30%);
+        color: hsl(300, 43%, 22%);
         font-weight: 600;
         padding: 0 50px;
         margin: 0 auto;
@@ -274,7 +274,7 @@
 
     .second-upper-content h5 {
         font-size: 1.075rem;
-        color: hsl(300, 51%, 30%);
+        color: hsl(300, 43%, 22%);
         text-align: center;
     }
     
@@ -336,7 +336,7 @@
         font-size: 2.5rem;
         line-height: 35px;
         text-align: center;
-        color: hsl(300, 51%, 30%);
+        color: hsl(300, 43%, 22%);
         font-weight: 600;
         padding: 0 50px;
         margin-top: 50px;
@@ -380,7 +380,7 @@
 
     .second-upper-content h5 {
         font-size: 1.075rem;
-        color: hsl(300, 51%, 30%);
+        color: hsl(300, 43%, 22%);
         text-align: center;
         margin-top: 15px;
     }
@@ -426,7 +426,7 @@
     /* Comment Sections */
     
     .comment-1 {
-        background-color: hsl(300, 51%, 30%);
+        background-color: hsl(300, 43%, 22%);
         margin: 0 15px;
         padding: 35px;
         max-width: 100%;
@@ -441,7 +441,7 @@
     }
     
     .comment-2 {
-        background-color: hsl(300, 51%, 30%);
+        background-color: hsl(300, 43%, 22%);
         margin: 0 15px;
         padding: 35px;
         max-width: 100%;
@@ -457,7 +457,7 @@
     }
     
     .comment-3 {
-        background-color: hsl(300, 51%, 30%);
+        background-color: hsl(300, 43%, 22%);
         margin: 0 15px;
         padding: 35px;
         max-width: 100%;
